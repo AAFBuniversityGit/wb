@@ -27110,7 +27110,8 @@ const App = ()=>{
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _homeDefault.default), {
                 name: siteProps.name,
-                title: siteProps.title
+                title: siteProps.title,
+                textStyle: whiteTextStyle
             }, void 0, false, {
                 fileName: "src/App.jsx",
                 lineNumber: 43,
