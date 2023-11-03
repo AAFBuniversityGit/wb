@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "https://AAFBuniversityGit.github.io/wb",
+  "homepage": "https://AAFBuniversityGit.github.io/MyWebSite",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://AAFBuniversityGit.github.io/wb'",
+    "build-gh": "parcel build --public-url 'https://AAFBuniversityGit.github.io/MyWebSite'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
