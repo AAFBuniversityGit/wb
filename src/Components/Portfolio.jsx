@@ -34,7 +34,7 @@ const projectList = [
     title: "Zoology Museum of University of Tehran", 
     description:
       "I am currently working on a project to digitize the Zoology Museum of University of Tehran. This project will allow researchers to access the museum's collection online and will also allow the museum to be more accessible to the public.",
-    url: "https://zoologymuseum.ut.ac.ir/en/people/",
+    url: "https://zoologymuseum.ut.ac.ir/en/people",
   },
   {
     title:
