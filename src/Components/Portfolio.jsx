@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/Biology grid.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "A image with Fish, DNA, Bioinformatics, and Programming.";
 
 /**
  * Project list
@@ -31,28 +31,29 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Zoology Museum of University of Tehran", 
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "I am currently working on a project to digitize the Zoology Museum of University of Tehran. This project will allow researchers to access the museum's collection online and will also allow the museum to be more accessible to the public.",
+    url: "https://zoologymuseum.ut.ac.ir/en/people/",
   },
   {
-    title: "Web Development for Beginners",
+    title:
+      'Conducted research on "Breeding and maintenance of guppy fish and investigation of sex change in females"',
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      'Conducted extensive research on "Breeding and maintenance of guppy fish" while also delving into the intriguing phenomenon of sex change in female guppies. Explored the intricacies of guppy biology, contributing valuable insights to the field of aquatic science.',
+    url: "https://aafbuniversitygit.github.io/MyProjects/project-pages/Guppy-Fish-Project.html",
   },
   {
-    title: "My Resume Site",
+    title: "Biology Student Association of Tehran University",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "As the head of the Biology Student Association of Tehran University, I am responsible for organizing events and activities for the biology students of Tehran University. I am also responsible for managing the association's website and social media accounts.",
+    url: "https://denasj.ut.ac.ir/?lang=en",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: 'Managed "Breeding and Maintenance of Gambusia Fish" Study',
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Managed a study on the breeding and maintenance of Gambusia fish. This study was conducted to determine the optimal conditions for breeding and maintaining Gambusia fish in captivity. This experiment is currently being conducted at the University of Tehran.",
+    url: "https://aafbuniversitygit.github.io/MyProjects/project-pages/Gambusia-Fish-Project.html",
   },
 ];
 

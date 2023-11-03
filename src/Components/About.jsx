@@ -1,21 +1,7 @@
-/**
- * About component
- *
- * Space for you to describe more about yourself.
- */
+
 
 import React from "react";
 
-/**
- * About background image
- *
- * Below is a sample image. Upload the image of your choice into the "images"
- * directory and import here for use. Then, set imageAltText to string that 
- * represents what you see in that image.
- *
- * Need an image? Check out https://unsplash.com to download a image you
- * freely use on your site.
- */
 import image from "../images/motion-background.jpg";
 
 const imageAltText = "purple and blue abstract background";
@@ -24,19 +10,25 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I am an Animal Biology student studying at University of Tehran. I enjoy conducting research across various biology domains and use programming to enhance my research outcomes.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
+  "C/C++, C#, Python, R, SQL",
+  ".NET, ML.NET, Xamarin",
+  "Adobe Indesign",
+  "Adobe Photoshop",
+  "CorelDraw",
   "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "PCR, DNA/RNA Extraction",
+  "Primer Design, Nanodrop",
+  "Oligo7, SPSS, NCBI, BLAST",
+  "BioEdit, GenoPro",
+  "Bacteria/Cell/Tissue Culture",
+  "Bacteria/Cell Counting",
 ];
 
 /**
@@ -45,7 +37,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I am passionate about solving problems in new and creative ways to drive innovation, particularly in the field of biology. By leveraging my research and programming experience, I am continually dedicated to learning and exploring novel approaches to advance biological knowledge and pioneer groundbreaking solutions. I am also a strong believer in the power of teamwork and collaboration to achieve goals and drive success.";
 
 const About = () => {
   return (
